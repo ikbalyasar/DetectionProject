@@ -1,0 +1,6 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "Model \"DenseNet169\" to predict landmark points",
+  "MLModelAuthorKey" : "Muhammet İkbal Yaşar",
+  "MLModelLicenseKey" : "BSD"
+}

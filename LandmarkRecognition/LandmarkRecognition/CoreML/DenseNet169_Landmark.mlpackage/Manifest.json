@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "115B1ED0-0031-4172-88EA-7808F2DED248": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "DenseNet169_Landmark.mlmodel",
+            "path": "com.apple.CoreML/DenseNet169_Landmark.mlmodel"
+        },
+        "96FF8061-C6BA-4602-9F43-70EC28CB3898": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "EEBD683E-ADF0-4BD0-B60F-DEF48D46E95C": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "115B1ED0-0031-4172-88EA-7808F2DED248"
+}

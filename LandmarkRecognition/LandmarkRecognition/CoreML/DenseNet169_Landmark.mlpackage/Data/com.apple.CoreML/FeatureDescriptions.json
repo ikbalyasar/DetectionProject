@@ -1,0 +1,18 @@
+{
+  "Outputs" : {
+    "classLabel" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "output" : {
+      "MLFeatureShortDescription" : "Digit Value"
+    }
+  },
+  "Inputs" : {
+    "image" : {
+      "MLFeatureShortDescription" : "224x224 image size"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
